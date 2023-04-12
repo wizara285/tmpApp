@@ -1,0 +1,15 @@
+C:\project on c#\tmpApp\tmpApp\bin\Debug\net6.0\tmpApp.exe
+C:\project on c#\tmpApp\tmpApp\bin\Debug\net6.0\tmpApp.deps.json
+C:\project on c#\tmpApp\tmpApp\bin\Debug\net6.0\tmpApp.runtimeconfig.json
+C:\project on c#\tmpApp\tmpApp\bin\Debug\net6.0\tmpApp.dll
+C:\project on c#\tmpApp\tmpApp\bin\Debug\net6.0\tmpApp.pdb
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.csproj.AssemblyReference.cache
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.AssemblyInfoInputs.cache
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.AssemblyInfo.cs
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.csproj.CoreCompileInputs.cache
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.dll
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\refint\tmpApp.dll
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.pdb
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\tmpApp.genruntimeconfig.cache
+C:\project on c#\tmpApp\tmpApp\obj\Debug\net6.0\ref\tmpApp.dll
