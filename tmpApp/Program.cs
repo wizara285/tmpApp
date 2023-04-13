@@ -12,6 +12,8 @@ internal class Program
             Age = 18,
             Email = "test@gmail.com"
         };
-        
+
+        Console.WriteLine($"{user.Name}");
+
     }
 }
